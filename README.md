@@ -1,6 +1,7 @@
 <p align="center">
   <h1>iT3g4n's Github</h1>
   <a>Welcome!</a>
+</p>
 
 <p align="right">
   <a href="confismp.uk">
